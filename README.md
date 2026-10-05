@@ -1,158 +1,53 @@
-# Ved Rathavi
+# Hey, I'm Ved Rathavi 👋
 
-### Engineer × Designer × Problem Solver
-
-I build software that works under pressure, looks intentional, and is genuinely usable.
-
-`700+ DSA Problems  ·  Full-Stack Systems  ·  AI Products  ·  Product/UI Design`
-
----
-
-## About
-
-I'm a Computer Science student at **LNMIIT, Jaipur**.
-
-I like problems that look simple until you try to solve them end-to-end — architecture, edge cases, performance, and the last 4px of UI alignment.
-
-My current focus is becoming a stronger engineer across:
-- Frontend + backend systems
-- AI-powered product development
-- AWS and cloud-native thinking
-- DSA fundamentals and system design
-
-I’ve solved **700+ DSA problems** (LeetCode max **1816**, Codeforces max **1216**), and I use that foundation while building full-stack, AI, fintech, and design-heavy products.
-
----
-
-## Currently shipping
-
-```bash
-$ whoami
-Ved — CS student, builder, engineer-designer hybrid
-
-$ building
-Full-stack products
-AI-assisted workflows
-Interfaces that don't feel accidental
-
-$ learning
-System Design
-AWS
-AI agents
-Advanced backend patterns
-
-$ debugging
-The one issue that only appears after "final final" deploy
-
-$ status
-Still building. Still refining. Still moving pixels with intent.
-```
-
----
-
-## How I think
-
-```text
-Problem
-  ↓
-Understand constraints
-  ↓
-Simplify the model
-  ↓
-Build the first correct version
-  ↓
-Break it with edge cases
-  ↓
-Improve performance + UX
-  ↓
-Ship
-```
-
-I care about fundamentals and clean implementation, but I also care about what users experience. If it technically works but confuses people, it's not done.
-
----
-
-## Tech stack
-
-- **Languages:** C++, TypeScript, JavaScript, Python, SQL  
-- **Frontend:** React, Next.js, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express.js, NestJS, REST APIs, JWT, RBAC  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Prisma, TypeORM  
-- **AI / Cloud:** LLM integrations, RAG, AI Agents, AWS, Bedrock, Cognito  
-- **Design:** Figma, UI/UX, Design Systems, Prototyping
-
----
-
-## Featured projects
-
-### 1) KindCrew *(private repository)*
-AI-powered creator platform designed around a complete workflow: **Research → Creation → Distribution → Analysis**.  
-Built to reduce context-switching for creators by combining ideation, generation, and feedback loops in one system.
-
-**Interesting work:** modular backend architecture, live web search + trends-aware generation, Bedrock-powered AI flow, Cognito auth design.  
-**Tech:** AI/LLMs, live web search, Google Trends, AWS Bedrock, Cognito, modular backend architecture.  
-**Repository:** Private
-
-### 2) Invise *(private repository)*
-Fintech product for stock-basket investing, built with a heavy focus on research-led UX and trust-oriented visual clarity.  
-
-**Interesting work:** end-to-end product design system, 40+ high-fidelity screens, dashboard/client flows, wireframes to branded UI execution.  
-**Tech:** Fintech product design, Figma, UX research, design systems, interaction design.  
-**Repository:** Private
-
-### 3) [CarbonTrack](https://github.com/vedrathavi/CarbonTrack)
-Full-stack household carbon-footprint tracker with onboarding, home-level analytics, and actionable AI suggestions.
-
-**Problem solved:** households can see *what* drives emissions and *when* spikes happen, instead of raw disconnected numbers.  
-**Interesting work:** hourly emission simulation engine, country-based factors via Climatiq, scheduler-generated recommendations, interactive analytics dashboard.  
-**Tech:** React + Vite, Node.js/Express, MongoDB, Zustand, Recharts, Tailwind, Gemini integration.
-
-### 4) [Baatchit](https://github.com/vedrathavi/Baatchit)
-Real-time chat application with private/group communication and AI-assisted conversations.
-
-**Problem solved:** combines modern chat UX with utility features users actually need (attachments, channels, bot interaction) in one flow.  
-**Interesting work:** socket-based messaging architecture, JWT auth, profile management, Gemini chatbot integration, responsive UI system.  
-**Tech:** React, Node.js, Express, MongoDB, Socket.io, JWT, Tailwind, shadcn/ui.
-
----
-
-## Engineering × Design
-
-```text
-Engineering                         Design
-
-Algorithms                          Hierarchy
-Architecture                        Consistency
-Performance                         Usability
-Scalability                         Visual clarity
-Correctness                         Intent
-```
-
-Good software shouldn't force users to understand how it was built.
-
----
-
-## Problem-solving fundamentals
-
-- **700+** DSA problems solved
-- **LeetCode max rating:** 1816
-- **Codeforces max rating:** 1216
-- Focus areas: **Graphs · Trees · DP · Greedy · Binary Search · Data Structures**
-
-I treat DSA as a foundation — not the destination.
-
----
-
-## GitHub signal
+### Building products that are fast, useful, and clean to use.
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vedrathavi&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ved's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedrathavi&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Solved-900%2B%20Problems-22c55e?style=for-the-badge" alt="900+ problems" />
+  <img src="https://img.shields.io/badge/LeetCode-1816-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 1816" />
+  <img src="https://img.shields.io/badge/Codeforces-1216-1f8acb?style=for-the-badge" alt="Codeforces 1216" />
 </p>
+
+I’m a CS student at **LNMIIT Jaipur** who likes taking ideas from **"this should work"** to **"this is production-ready"**.
+
+I care about:
+- ⚙️ solid engineering fundamentals
+- 🧠 practical AI integration
+- 🎨 product + UI polish that users can actually feel
 
 ---
 
-## Contribution graph (snake)
+## 🚀 Featured Work
+
+### [CarbonTrack](https://github.com/vedrathavi/CarbonTrack)
+Household carbon tracking platform that turns raw data into actionable insights.
+- Built hourly emission simulation + country-based factors
+- Added AI suggestions and visual analytics dashboard
+- Stack: React, Node.js, MongoDB, Gemini, Recharts, Tailwind
+
+### [Baatchit](https://github.com/vedrathavi/Baatchit)
+Real-time chat app with private/group messaging and AI-assisted conversations.
+- Designed socket-based messaging with JWT auth flows
+- Shipped channels, attachments, and responsive UI
+- Stack: React, Node.js, Express, MongoDB, Socket.io, Tailwind
+
+### Private Product Work
+- **KindCrew**: AI creator workflow platform (research → creation → distribution → analysis)
+- **Invise**: fintech product design and dashboard system focused on trust + clarity
+
+---
+
+## 🧭 How I Work
+
+**Think → build correct first → stress test edge cases → improve performance + UX → ship.**
+
+---
+
+## 📊 GitHub Signal
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedrathavi&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ved's GitHub stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedrathavi/vedrathavi/output/github-contribution-grid-snake-dark.svg" />
@@ -162,9 +57,7 @@ I treat DSA as a foundation — not the destination.
 
 ---
 
-## Let's build something
+## 🤝 Connect
 
 - GitHub: [@vedrathavi](https://github.com/vedrathavi)
-- LinkedIn: Not publicly listed on GitHub profile yet
-- Portfolio: [Portfolio-Website](https://github.com/vedrathavi/Portfolio-Website)
 - Email: [rathavived333@gmail.com](mailto:rathavived333@gmail.com)
