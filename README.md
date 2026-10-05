@@ -1,84 +1,110 @@
+<div align="center">
+
 # Hey, I'm Ved Rathavi 👋
+
+### From the API to the interface. From the query to the code.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+logic.+Full-stack+products.+Code+retrieval.;Building+with+TypeScript%2C+Python+and+C%2B%2B." alt="Backend logic. Full-stack products. Code retrieval." />
+
+**CS @ LNMIIT · Class of 2027 · Open to full-time software engineering roles**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/vedrathavi)
+[![Email](https://img.shields.io/badge/Email-Let%27s_talk-EA4335?style=for-the-badge)](mailto:work.vedrathavi@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-vedrathavi-FFA116?style=for-the-badge)](https://leetcode.com/u/vedrathavi)
+[![Codeforces](https://img.shields.io/badge/Codeforces-bittudo-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/bittudo)
+
+</div>
+
+---
 
 ## ⚡ I build the parts that make a product work.
 
 Authenticated APIs. Data models. Research pipelines. Retrieval engines.
 
-I work across **backend, full-stack, and AI-enabled applications**, with a growing focus on code retrieval in C++. My projects are where I work through details: who can access a resource, how a session stays valid, what makes a search result useful, and which test catches a failure.
+I work across **backend, full-stack, and AI-enabled applications**, with a growing focus on code retrieval in C++. My projects are where I work through the details: who can access a resource, how a session stays valid, what makes a search result useful, and which test catches the failure.
 
-**Looking for:** a full-time software engineering role where I can build, take ownership, and learn from engineers who care about details.
-
----
+**Looking for:** a full-time software engineering role where I can build, take ownership, and learn from engineers who care about the details.
 
 ## 🚀 Three projects. Three different engineering problems.
 
 ### 🧠 [KindCrew](https://github.com/vedrathavi/AI-For-Bharat_KindCrew)
-Turn research into content, then carry it through publishing and analytics.
+**Turn research into content, then carry it through publishing and analytics.**
 
 `Next.js` `TypeScript` `Express.js` `DynamoDB` `Cognito` `Bedrock`
 
-- Built **40+ REST APIs** with ownership checks, centralized error handling, and persistent data models across four workflow stages.
-- Implemented Tavily + Google Trends + Bedrock research orchestration that generates tailored drafts for **four social platforms**.
-- Shipped Cognito account linking, Google OAuth, HTTP-only cookie sessions, and automatic token refresh.
+- **40+ REST APIs** with ownership checks, centralized error handling, and persistent data models across four workflow stages.
+- Tavily + Google Trends + Bedrock research pipeline producing tailored drafts for **four social platforms**.
+- Cognito account linking, Google OAuth, HTTP-only cookie sessions, and automatic token refresh.
+
+**Open the repo for:** research orchestration, authentication, and access-control tests.
 
 ### 🔎 [Amoeba](https://github.com/vedrathavi/amoeba) · In progress
-Find relevant code. Keep source locations. Bring evidence.
+**Find relevant code. Keep its source locations. Bring the evidence.**
 
 `C++20` `Python` `Tree-sitter` `BM25` `HNSW` `CMake`
 
-- Built a code-retrieval core covering **12 source-language variants**, with symbol extraction and inverted indexing.
-- Implemented lexical + vector retrieval using weighted-score fusion and reciprocal-rank fusion, with index-persistence tests.
-- Running evaluation on **70 questions across 10 open-source repositories**, tracking retrieval success, evidence sufficiency, context size, and latency.
+- Code-retrieval core covering **12 source-language variants**, with symbol extraction and inverted indexing.
+- Lexical + vector retrieval using weighted-score and reciprocal-rank fusion, with index-persistence tests.
+- Evaluation across **70 questions and 10 open-source repositories**, tracking retrieval success, evidence sufficiency, context size, and latency.
+
+**Open the repo for:** rankers, hybrid search, and benchmark fixtures. Still being built and evaluated.
 
 ### 🌱 [CarbonTrack](https://github.com/vedrathavi/CarbonTrack)
-Make household energy patterns easier to understand.
+**Make household energy patterns easier to understand.**
 
 `React` `Express.js` `MongoDB` `Google OAuth` `JWT` `Gemini`
 
-- Built **24-hour emission estimates for 10 appliance types**, combining power profiles, usage windows, seasonal factors, and grid intensity.
-- Added shared-household access and **three analytics views** tied to AI-generated recommendations.
-- Implemented HTTP-only JWT sessions and hash-based upserts for deduplicated daily insights.
+- **24-hour emission estimates for 10 appliance types**, using power profiles, usage windows, seasonal factors, and grid intensity.
+- Shared-household access and **three analytics views** connected to AI-generated energy recommendations.
+- HTTP-only JWT sessions and hash-based upserts for deduplicated daily insights.
 
----
+**Open the repo for:** simulation logic, the insights pipeline, and tests. These are estimates, not meter readings.
+
+<details>
+<summary><strong>💬 Earlier build: Baatchit</strong></summary>
+<br />
+
+[Baatchit](https://github.com/vedrathavi/Baatchit) combines direct/group chat, Socket.IO real-time messaging, JWT authentication, file sharing, and a Gemini assistant. A hands-on project in persistent connections, message storage, and client-side state.
+
+</details>
 
 ## 🛠️ My working stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,nextjs,tailwind,aws,mongodb,postgres,git&theme=dark&perline=13" alt="C++, Python, JavaScript, TypeScript, Node.js, Express, React, Next.js, Tailwind, AWS, MongoDB, PostgreSQL, Git" />
+</div>
 
 **Backend:** Node.js · Express.js · NestJS · FastAPI · REST APIs · OAuth 2.0 · JWT  
 **Frontend:** React · Next.js · Tailwind CSS · Zustand  
 **Data & cloud:** PostgreSQL · MySQL · MongoDB · DynamoDB · AWS Cognito/Bedrock/Amplify · GCP  
 **Retrieval:** Tree-sitter · BM25 · HNSW · hybrid search
 
----
+## 🏁 The work beyond the repositories
 
-## 🏁 The work beyond repositories
+**900+ DSA problems** across LeetCode, GeeksforGeeks, and Codeforces.  
+**LeetCode: 1816** · **Codeforces: 1216 / Pupil**
 
-<p>
-  <img src="https://img.shields.io/badge/Solved-900%2B%20Problems-22c55e?style=for-the-badge" alt="900+ problems" />
-  <img src="https://img.shields.io/badge/LeetCode-1816-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 1816" />
-  <img src="https://img.shields.io/badge/Codeforces-1216-1f8acb?style=for-the-badge" alt="Codeforces 1216" />
-</p>
+**Nemi Wealth · UI/UX Design Intern**  
+Designed **40+ responsive web/mobile screens** as the sole UI/UX designer, working directly with the founder and developers on requirements, feedback, and design handoff.
 
-- **900+ DSA problems** solved across LeetCode, GeeksforGeeks, and Codeforces.
-- **Nemi Wealth · UI/UX Design Intern:** designed **40+ responsive web/mobile screens** as the sole designer, working directly with founder and developers on requirements and handoff.
-- **GDG LNMIIT · Creative Lead:** led **10+ designers and developers** on **30+ responsive pages** for PLINTH and HackCrux, including registration/login experiences used by **1,000+ users**.
-
----
+**GDG LNMIIT · Creative Lead**  
+Led **10+ designers and developers** on **30+ responsive pages** for PLINTH and HackCrux, including registration/login pages used by **1,000+ users**.
 
 ## 📈 GitHub activity
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedrathavi&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ved Rathavi GitHub stats" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedrathavi/vedrathavi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedrathavi/vedrathavi/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vedrathavi/vedrathavi/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vedrathavi&show_icons=true&theme=github_dark&hide_border=true&hide=stars&rank_icon=github" alt="Ved's GitHub activity statistics" width="48%" />
+<img src="https://streak-stats.demolab.com?user=vedrathavi&theme=github-dark-blue&hide_border=true" alt="Ved's GitHub contribution streak" width="48%" />
+</div>
 
 ---
 
-## 🤝 Connect
+<div align="center">
 
-- GitHub: [@vedrathavi](https://github.com/vedrathavi)
-- Email: [rathavived333@gmail.com](mailto:rathavived333@gmail.com)
+### Building a team that ships useful software?
+
+**Let's talk backend, full-stack, or AI-enabled products.**
+
+[Email me](mailto:work.vedrathavi@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/vedrathavi)
+
+</div>
